@@ -1,0 +1,13 @@
+numpy
+torch
+torchvision
+plyfile
+tqdm
+trimesh
+nvdiffrast
+Pillow
+opencv-python
+scipy
+scikit-image
+rich
+tensorboard

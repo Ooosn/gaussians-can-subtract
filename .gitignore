@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+outputs/
+runs/
+wandb/
+*.log
+*.pt
+*.pth
+*.ply
+*.glb
+*.png
+*.jpg
+*.jpeg
+*.exr
+
+# project page assets (docs/ is served by GitHub Pages)
+!docs/**/*.png
+!docs/**/*.jpg
+!docs/**/*.jpeg
